@@ -1,6 +1,6 @@
 {
-  "name": "react-native-draganddrop-board",
-  "version": "1.0.5",
+  "name": "react-native-web-draganddrop-board",
+  "version": "1.1.0",
   "description": "Drag and drop elements inside carousel",
   "main": "src/components/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bear-junior/react-native-draganddrop-board.git"
+    "url": "git+https://github.com/marknauf/react-native-web-draganddrop-board.git"
   },
   "keywords": [
     "draggable",
@@ -46,8 +46,8 @@
     "react-test-renderer": "^16.12.0"
   },
   "bugs": {
-    "url": "https://github.com/bear-junior/react-native-draganddrop-board/issues"
+    "url": "https://github.com/marknauf/react-native-web-draganddrop-board/issues"
   },
-  "homepage": "https://github.com/bear-junior/react-native-draganddrop-board#readme",
+  "homepage": "https://github.com/marknauf/react-native-web-draganddrop-board#readme",
   "readmeFilename": "README.md"
 }
